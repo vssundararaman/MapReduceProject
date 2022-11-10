@@ -1,0 +1,103 @@
+﻿  Client.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(24,18): error C2039: 'fabs': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(24,22): error C3861: 'fabs': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(28,18): error C2039: 'fabsf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(28,23): error C3861: 'fabsf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(32,18): error C2039: 'fabsl': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cstdlib(32,23): error C3861: 'fabsl': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(37,18): error C2039: 'acosf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(37,23): error C3861: 'acosf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(41,18): error C2039: 'acoshf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(41,24): error C3861: 'acoshf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(45,18): error C2039: 'asinf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(45,23): error C3861: 'asinf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(49,18): error C2039: 'asinhf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(49,24): error C3861: 'asinhf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(53,18): error C2039: 'atanf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(53,23): error C3861: 'atanf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(57,18): error C2039: 'atanhf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(57,24): error C3861: 'atanhf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(61,18): error C2039: 'atan2f': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(61,24): error C3861: 'atan2f': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(65,18): error C2039: 'cbrtf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(65,23): error C3861: 'cbrtf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(89,18): error C2039: 'cosf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(89,22): error C3861: 'cosf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(93,18): error C2039: 'coshf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(93,23): error C3861: 'coshf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(97,18): error C2039: 'erff': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(97,22): error C3861: 'erff': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(101,18): error C2039: 'erfcf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(101,23): error C3861: 'erfcf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(105,18): error C2039: 'expf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(105,22): error C3861: 'expf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(109,18): error C2039: 'exp2f': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(109,23): error C3861: 'exp2f': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(113,18): error C2039: 'expm1f': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(113,24): error C3861: 'expm1f': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(117,18): error C2039: 'fabsf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(117,23): error C3861: 'fabsf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(121,18): error C2039: 'fdimf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(121,23): error C3861: 'fdimf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(135,18): error C2039: 'fmaf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(135,22): error C3861: 'fmaf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(139,18): error C2039: 'fmaxf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(139,23): error C3861: 'fmaxf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(143,18): error C2039: 'fminf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(143,23): error C3861: 'fminf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(147,18): error C2039: 'fmodf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(147,23): error C3861: 'fmodf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(151,18): error C2039: 'frexpf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(151,24): error C3861: 'frexpf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(155,18): error C2039: 'hypotf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(155,24): error C3861: 'hypotf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(159,18): error C2039: 'ilogbf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(159,24): error C3861: 'ilogbf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(163,18): error C2039: 'ldexpf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(163,24): error C3861: 'ldexpf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(167,18): error C2039: 'lgammaf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(167,25): error C3861: 'lgammaf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(171,18): error C2039: 'llrintf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(171,25): error C3861: 'llrintf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(175,18): error C2039: 'llroundf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(175,26): error C3861: 'llroundf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(179,18): error C2039: 'logf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(179,22): error C3861: 'logf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(183,18): error C2039: 'log10f': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(183,24): error C3861: 'log10f': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(187,18): error C2039: 'log1pf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(187,24): error C3861: 'log1pf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(191,18): error C2039: 'log2f': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(191,23): error C3861: 'log2f': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(195,18): error C2039: 'logbf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(195,23): error C3861: 'logbf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(199,18): error C2039: 'lrintf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(199,24): error C3861: 'lrintf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(203,18): error C2039: 'lroundf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(203,25): error C3861: 'lroundf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(207,18): error C2039: 'modff': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(207,23): error C3861: 'modff': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(211,18): error C2039: 'nearbyintf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(211,28): error C3861: 'nearbyintf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(215,18): error C2039: 'nextafterf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(215,28): error C3861: 'nextafterf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(219,18): error C2039: 'nexttowardf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(219,29): error C3861: 'nexttowardf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(223,18): error C2039: 'powf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(223,22): error C3861: 'powf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(227,18): error C2039: 'remainderf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(227,28): error C3861: 'remainderf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(231,18): error C2039: 'remquof': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(231,25): error C3861: 'remquof': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(235,18): error C2039: 'rintf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(235,23): error C3861: 'rintf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(249,18): error C2039: 'scalblnf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(249,26): error C3861: 'scalblnf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(253,18): error C2039: 'scalbnf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(253,25): error C3861: 'scalbnf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(257,18): error C2039: 'sinf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(257,22): error C3861: 'sinf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(261,18): error C2039: 'sinhf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(261,23): error C3861: 'sinhf': identifier not found
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(265,18): error C2039: 'sqrtf': is not a member of '`global namespace''
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\cmath(265,23): fatal  error C1003: error count exceeds 100; stopping compilation
